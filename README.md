@@ -1,1 +1,1 @@
-# sample description
+# sample description and learning
