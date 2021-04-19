@@ -1,1 +1,1 @@
-# sample description and learning
+# tuorial and  learning
